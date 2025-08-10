@@ -1,5 +1,5 @@
-Perfect — let’s make a **5-week, hands-on learning path** for **MCP (Model Context Protocol)** with a focus on **building agentic AI**.  
-We’ll start with core concepts → simple local experiments → real integrations → agent frameworks → multi-agent orchestration.
+
+**5-week, hands-on learning path** for **MCP (Model Context Protocol)** with a focus on **building agentic AI**.  
 
 ---
 
@@ -136,8 +136,8 @@ We’ll start with core concepts → simple local experiments → real integrati
 # MCP + Agentic AI 5-Week Learning Roadmap ✅
 
 ## Week 1 - Foundations & MCP Basics
-- [ ] Read MCP spec & draw diagram
-- [ ] Run MCP reference server
+- [x] Read MCP spec & draw diagram
+- [x] Run MCP reference server
 - [ ] Write simple MCP client
 - [ ] Call one tool
 - [ ] Document setup
@@ -170,3 +170,5 @@ We’ll start with core concepts → simple local experiments → real integrati
 - [ ] Add permissions & consent
 - [ ] Final Project: Autonomous PM
 
+
+![MCP 5-Week Roadmap](mcp_roadmap.png)
