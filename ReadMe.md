@@ -126,7 +126,9 @@
    [github.com/langchain-ai/langchain/tree/master/libs/langchain/langchain/mcp](https://github.com/langchain-ai/langchain/tree/master/libs/langchain/langchain/mcp)
 4. **Example MCP Servers (GitHub, FS, ChromaDB):**  
    [github.com/modelcontextprotocol/mcp-servers](https://github.com/modelcontextprotocol/mcp-servers)
-5. **Anthropic Claude MCP Docs:**  
+5. **Pulse MCP Server :**
+   [https://www.pulsemcp.com/servers](https://www.pulsemcp.com/servers)   
+6. **Anthropic Claude MCP Docs:**  
    [modelcontextprotocol.io](https://modelcontextprotocol.io)
 
 ---
