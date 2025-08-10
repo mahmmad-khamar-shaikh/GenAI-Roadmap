@@ -170,5 +170,3 @@
 - [ ] Add permissions & consent
 - [ ] Final Project: Autonomous PM
 
-
-![MCP 5-Week Roadmap](mcp_roadmap.png)
